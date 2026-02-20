@@ -145,7 +145,7 @@ I write about system design, backend architecture, and lessons learned while bui
 
 <div align="center">
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@awasthijay825)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rdsrachit001)
 
 **Featured:** *Building Real-Time Systems: Architecture & Design Decisions*
 
