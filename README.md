@@ -2,7 +2,7 @@
   
 # Hey there, I'm Rachit 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Computer Science+Student+%7C+Backend+Developer;Building+Real-Time+Systems;Learning+System+Design+%26+DSA;Open+to+Collaborate!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=CS+Student+%7C+Backend+Developer;Building+Real-Time+Systems;Learning+System+Design+%26+DSA;Open+to+Collaborate!" alt="Typing SVG" />
 
 </div>
 
