@@ -9,7 +9,7 @@
 
 <br/><br/>
 
-<!-- Social Badges (for-the-badge style, &nbsp;&nbsp; spacing) -->
+<!-- Social Badges (for-the-badge style) -->
 <a href="https://www.linkedin.com/in/rachit-kushwaha-8b8714297/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
@@ -32,68 +32,12 @@
 
 ---
 
-## 👤 About Me
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-### 🎯 Who I Am
-
-```yaml
-name: Rachit Kushwaha
-username: rachit-890
-role: Java Backend Developer
-location: Ghaziabad, India 🇮🇳
-education: B.Tech Computer Science, KIET Group of Institutions (AKTU), Class of 2027
-status: Building Scalable Backend Systems with Java & Spring Boot
-
-core_stack:
-  - ☕ Java & Spring Boot Microservices
-  - 📨 Event-Driven Architecture (Apache Kafka)
-  - ⚡ High-Performance Caching (Redis)
-  - 🔐 Security (Spring Security, JWT, OAuth2)
-  - 🗄️ Relational & NoSQL Databases (PostgreSQL, MySQL, MongoDB)
-  - 🐳 Containerization & CI/CD (Docker, GitHub Actions, Maven)
-
-philosophy: "Build systems that scale, write code that lasts."
-```
-
-</td>
-<td width="45%" valign="top">
-
-### 🚀 Current Focus
-
-- 🏗️ **Architecting** high-throughput Java & Spring Boot microservices
-- 📨 **Implementing** event-driven streaming pipelines with Apache Kafka
-- ⚡ **Optimizing** data access with Redis caching & PostgreSQL
-- 🔐 **Securing** RESTful APIs with JWT & OAuth2
-- 📦 **Containerizing** environments with Docker & GitHub Actions
-- 🧠 **Practicing** Data Structures & System Design daily
-
-<br/>
-
-### 💡 Quick Facts
-
-- 🎓 KIET Group of Institutions (AKTU), Class of 2027
-- 🏅 Advanced Java Certified — GeeksforGeeks
-- 📂 20+ backend repositories on GitHub
-- 💻 150+ DSA problems solved on LeetCode & Codeforces
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
 ## 📊 GitHub Analytics
 
 <!-- Streak Card (100% Width) -->
 <div align="center">
   <a href="https://github.com/rachit-890">
-    <img width="100%" src="https://streak-stats.demolab.com/?user=rachit-890&background=0A101F&border=22D3EE&stroke=22D3EE&ring=10B981&fire=10B981&currStreakNum=22D3EE&sideNums=A78BFA&currStreakLabel=22D3EE&sideLabels=A78BFA&dates=64748B&hide_border=false" alt="GitHub Streak"/>
+    <img width="100%" src="https://streak-stats.demolab.com?user=rachit-890&background=0A101F&border=22D3EE&stroke=22D3EE&ring=10B981&fire=10B981&currStreakNum=22D3EE&sideNums=A78BFA&currStreakLabel=22D3EE&sideLabels=A78BFA&dates=64748B" alt="GitHub Streak"/>
   </a>
 </div>
 
