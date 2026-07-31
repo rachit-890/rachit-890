@@ -37,7 +37,7 @@
 <!-- Streak Card (100% Width) -->
 <div align="center">
   <a href="https://github.com/rachit-890">
-    <img width="100%" src="https://streak-stats.demolab.com?user=rachit-890&background=0A101F&border=22D3EE&stroke=22D3EE&ring=10B981&fire=10B981&currStreakNum=22D3EE&sideNums=A78BFA&currStreakLabel=22D3EE&sideLabels=A78BFA&dates=64748B" alt="GitHub Streak"/>
+    <img width="100%" src="https://streak-stats.demolab.com?user=rachit-890&theme=dark&background=0A101F&border=22D3EE&stroke=22D3EE&ring=10B981&fire=10B981&currStreakNum=22D3EE&sideNums=A78BFA&currStreakLabel=22D3EE&sideLabels=A78BFA&dates=64748B" alt="GitHub Streak"/>
   </a>
 </div>
 
