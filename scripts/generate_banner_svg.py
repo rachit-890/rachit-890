@@ -23,7 +23,7 @@ np.random.seed(890)
 # Directory setup
 HERE = os.path.dirname(os.path.abspath(__file__))
 REPO_DIR = os.path.abspath(os.path.join(HERE, ".."))
-PHOTO_PATH = os.path.join(REPO_DIR, "photo.jpeg")
+PHOTO_PATH = os.path.join(REPO_DIR, "ph.jpeg")
 
 # --- Layout Parameters ---
 CANVAS_W = 1180
