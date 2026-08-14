@@ -26,6 +26,13 @@
   <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A101F" alt="Portfolio"/>
 </a>
 
+<br/><br/>
+
+<!-- GitSkins Hero Card -->
+<a href="https://www.gitskins.com/showcase/rachit-890?skin=renaissance" target="_blank">
+  <img src="https://www.gitskins.com/api/section/hero?username=rachit-890&theme=autumn&style=aura" alt="rachit-890's animated GitSkins profile" width="100%" />
+</a>
+
 </div>
 
 <br/>
